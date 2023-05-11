@@ -1,4 +1,4 @@
-# Individual Project 4: Serverless Data Engineering Pipeline
+# Serverless Data Engineering Pipeline
 
 ## Objectvices of Project
 
